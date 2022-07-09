@@ -13,7 +13,7 @@ Glosarium
 
 Here's a quick look at the dataset I'm using:
 
-<img src="Images/Dataset.png"> </br>
+<img src="Images/dataset.png"> </br>
 
 The libraries used are as follows:
 - numpy
